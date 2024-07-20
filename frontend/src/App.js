@@ -79,7 +79,6 @@ function App() {
           </Routes>
         </TaskContext.Provider>
       </TokenContext.Provider>
-
     </BrowserRouter>
   );
 }
